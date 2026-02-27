@@ -1,38 +1,70 @@
-👋 Hi, I'm Tanzeel Yousef
-WordPress Expert ➡️ React Full Stack Developer
-FiverrUpworkLinkedInWhatsAppEmail
+# 👋 Hi, I'm Tanzeel Yousef
 
-🚀 My Journey: From CMS to Custom Code
-I didn't just learn to code; I evolved with the web. My journey is a testament to adaptability and continuous growth.
+I'm a passionate **Frontend Developer** with expertise in building responsive, dynamic, and scalable web applications using **React**, **JavaScript**, **HTML**, and **CSS**. I love creating smooth user experiences, optimized components, and pixel-perfect designs that perform well across devices.
 
-Phase	Tech Stack	Description
-🌱 The Beginning	WordPress, PHP, Elementor	Started as a WordPress Specialist. Delivered 50+ custom themes, plugins, and WooCommerce stores. Mastered SEO and site optimization.
-🌿 Transition	Bootstrap, HTML5, CSS3	Moved beyond drag-and-drop. Started building responsive, pixel-perfect layouts from scratch.
-🔥 Frontend Master	JavaScript, React.js	Embraced modern frontend development. Building interactive SPAs (Single Page Applications) and complex UI components.
-⚡ Full Stack	Node.js, MySQL, APIs	Completed the cycle. Now creating robust Backends, designing MySQL Databases, and building secure RESTful APIs.
-💻 Technical Expertise
-🎨 Frontend Development
-⚙️ Backend & Database
-🛠️ Platforms & Tools
-🏆 Featured Projects
-Project Name	Tech Stack	Description	Link
-Exchange My Car	Custom PHP, Frontend	A complex car exchange platform with advanced search, auth, and listing management.	🔗 Live Site
-The Pet Smart	WordPress, WooCommerce	Full e-commerce pet store with inventory, local delivery, and payment gateways.	🔗 Live Site
-Collab Culture	Go High Level, Custom Code	Directory website for creative professionals with messaging and search.	🔗 Live Site
-Car Adviser	WordPress, ULEZ API	Automotive advice site with ULEZ map integration for UK emission zones.	🔗 Live Site
-Go Woda	WordPress, PHP	Custom job portal with employer dashboards and application tracking.	🔗 Live Site
-Green Pharms	WordPress, E-commerce	Cannabis dispensary website with age verification and online ordering.	🔗 Live Site
-📈 Key Achievements
-✅ 50+ Projects Delivered: Successfully delivered across WordPress, Shopify, and Custom Code.
-⚡ 60% Speed Increase: Optimized website performance for faster load times.
-🔒 Secure Payments: Integrated Stripe & PayPal for multiple eCommerce platforms.
-🚀 30+ Migrations: Seamless website migrations without downtime.
-📞 Connect With Me
-I am currently open to new opportunities. Whether you need a WordPress expert or a Full Stack solution, let's chat!
+From landing pages to full-fledged apps, I focus on **clean code**, **modern UI/UX**, and **performance optimization**.
 
-FiverrUpworkLinkedInInstagram
+---
 
-📱 WhatsApp: +92 318 9046142📧 Email: mtwebexperts.site@gmail.com
+### ⚛ Tech Stack
 
-💙 Thanks for visiting!
-“Design is not just what it looks like and feels like. Design is how it works.”
+- React, React Router, Hooks, Context API  
+- JavaScript (ES6+), HTML5, CSS3, Tailwind  
+- Git, GitHub, NPM, Vite, Webpack  
+- Firebase, REST APIs, Form Validation  
+- Basic backend (Node.js, Express)  
+- ⬇️ Minimal experience with: WordPress, PHP, Elementor
+
+---
+
+### 💼 Projects I Work On
+
+- ⚛ Dynamic React Applications  
+- 🎯 Responsive Landing Pages  
+- 📱 Frontend Dashboards & Admin Panels  
+- 🧠 API-Driven UI Components  
+- 🌐 SEO-Friendly Static Sites  
+- 🔧 Real-time Form Handling & Validations
+
+---
+
+### 🚀 Goals
+
+- Master advanced React patterns & performance tuning  
+- Explore Next.js and full-stack JavaScript development  
+- Contribute to open-source projects  
+- Help businesses grow with stunning frontend solutions
+
+---
+
+### 🌐 My Portfolio Website
+
+🔗 [https://mtwebexperts.site](https://mtwebexperts.site)
+
+---
+
+## 🌟 Professional Profiles
+
+[![Website](https://img.shields.io/badge/Website-MT%20Web%20Experts-black?style=for-the-badge&logo=google-chrome)](https://mtwebexperts.site)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanzeel%20Yousef-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-tanzeel-ur-rehman-04b898355/)  
+[![Fiverr](https://img.shields.io/badge/Fiverr-Profile-success?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/tanzeelyousef96?public_mode=true)  
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-success?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~019473e56b1a594fa8?mp_source=share)  
+[![Kwork](https://img.shields.io/badge/Kwork-Profile-yellow?style=for-the-badge)](https://kwork.com/user/tanzeelyousef)
+
+---
+
+### 📬 Contact
+
+- 📧 Email: [mtwebexperts.site@gmail.com](mailto:mtwebexperts.site@gmail.com)  
+- 📱 WhatsApp: 0318-9046142  
+- 📍 Dera Ismail Khan, Pakistan  
+- 🧑‍💻 Pronouns: He/Him
+
+---
+
+<h3>💬 Quote I Believe In</h3>
+
+<div style="background-color: #cceeff; padding: 15px; border-radius: 10px; font-style: italic; font-size: 16px; color: #333;">
+  “First, solve the problem. Then, write the code.”<br>
+  <strong>— John Johnson</strong>
+</div>
