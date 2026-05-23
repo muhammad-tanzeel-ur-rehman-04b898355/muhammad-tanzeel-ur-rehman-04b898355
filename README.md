@@ -161,7 +161,7 @@ Hayat Medical College | 2025
 
 ---
 
-## 📁 All Projects (21 Live Works)
+## 📁 Some Recent Projects
 
 1. [Custom ACF Pro Build](https://www.upwork.com/freelancers/~019473e56b1a594fa8?p=2058092268697952256) - Dynamic business directory
 2. [Elementor Pro Website](https://www.upwork.com/freelancers/~019473e56b1a594fa8?p=2058090236860235776) - Responsive business site
@@ -192,7 +192,7 @@ Hayat Medical College | 2025
 I'm always open to collaborating with businesses, agencies, and innovative teams looking for high-quality web development solutions.
 
 📧 **Email:** mtanzeelxen@gmail.com  
-📱 **WhatsApp:** 0318-9046142  
+📱 **WhatsApp:** 03365224363  
 📍 **Location:** Dera Ismail Khan, Pakistan  
 🌐 **Portfolio:** [tanzeel-yousef.netlify.app](https://tanzeel-yousef.netlify.app)
 
