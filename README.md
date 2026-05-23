@@ -36,69 +36,69 @@ I build complete web applications and websites from scratch using PHP in the bac
 ## 🛠 My Expertise
 
 ### 🔹 Custom WordPress Development
-✔ Custom WordPress websites
-✔ Theme customization & development
-✔ Plugin setup & customization
-✔ Dynamic websites using ACF Pro
-✔ Custom post types & flexible content systems
-✔ WordPress bug fixing & maintenance
+- ✔ Custom WordPress websites
+- ✔ Theme customization & development
+- ✔ Plugin setup & customization
+- ✔ Dynamic websites using ACF Pro
+- ✔ Custom post types & flexible content systems
+- ✔ WordPress bug fixing & maintenance
 
 ### 🔹 Full Stack PHP Development
-✔ PHP & MySQL applications
-✔ Custom admin panels & dashboards
-✔ API integrations & backend systems
-✔ Secure database-driven websites
-✔ Custom web applications
+- ✔ PHP & MySQL applications
+- ✔ Custom admin panels & dashboards
+- ✔ API integrations & backend systems
+- ✔ Secure database-driven websites
+- ✔ Custom web applications
 
 ### 🔹 ACF Pro & Elementor Development
-✔ Advanced Custom Fields (ACF Pro) Specialist
-✔ Dynamic and flexible website structures
-✔ Elementor & Elementor Pro Expert
-✔ Pixel-perfect responsive layouts
-✔ Interactive and reusable sections
-✔ Mobile-first development
+- ✔ Advanced Custom Fields (ACF Pro) Specialist
+- ✔ Dynamic and flexible website structures
+- ✔ Elementor & Elementor Pro Expert
+- ✔ Pixel-perfect responsive layouts
+- ✔ Interactive and reusable sections
+- ✔ Mobile-first development
 
 ### 🔹 WooCommerce Development
-✔ WooCommerce store setup
-✔ Payment gateway integration
-✔ Product & inventory management
-✔ Checkout customization
-✔ Custom WooCommerce functionality
+- ✔ WooCommerce store setup
+- ✔ Payment gateway integration
+- ✔ Product & inventory management
+- ✔ Checkout customization
+- ✔ Custom WooCommerce functionality
 
 ### 🔹 Front-End Development
-✔ HTML5, CSS3, JavaScript, Bootstrap
-✔ Fully responsive websites
-✔ Cross-browser compatibility
-✔ Modern UI/UX implementation
+- ✔ HTML5, CSS3, JavaScript, Bootstrap
+- ✔ Fully responsive websites
+- ✔ Cross-browser compatibility
+- ✔ Modern UI/UX implementation
 
 ### 🔹 Performance Optimization
-✔ Faster website loading
-✔ Core Web Vitals improvements
-✔ CSS & JavaScript optimization
-✔ Caching and compression setup
-✔ Performance-focused development
+- ✔ Faster website loading
+- ✔ Core Web Vitals improvements
+- ✔ CSS & JavaScript optimization
+- ✔ Caching and compression setup
+- ✔ Performance-focused development
 
 ### 🔹 SEO Optimization
-✔ Technical SEO & On-Page SEO Optimization
-✔ Schema Markup
-✔ Google Analytics & Search Console
-✔ Improved online visibility
+- ✔ Technical SEO & On-Page SEO Optimization
+- ✔ Schema Markup
+- ✔ Google Analytics & Search Console
+- ✔ Improved online visibility
 
 ---
 
 ## 🎯 My Core Expertise (At a Glance)
 
-• Full Stack Web Development (PHP & MySQL)
-• Front-End Development: HTML5, CSS3, JavaScript, Bootstrap
-• Custom WordPress Development
-• Elementor & Elementor Pro Expert
-• ACF Pro (Advanced Custom Fields) Specialist
-• WooCommerce Development & Customization
-• Responsive & Mobile-First Website Design
-• Website Speed Optimization & Performance Improvements
-• Technical SEO & On-Page SEO Optimization
-• Custom Features & API Integrations
-• UI/UX Focused Web Development
+- • Full Stack Web Development (PHP & MySQL)
+- • Front-End Development: HTML5, CSS3, JavaScript, Bootstrap
+- • Custom WordPress Development
+- • Elementor & Elementor Pro Expert
+- • ACF Pro (Advanced Custom Fields) Specialist
+- • WooCommerce Development & Customization
+- • Responsive & Mobile-First Website Design
+- • Website Speed Optimization & Performance Improvements
+- • Technical SEO & On-Page SEO Optimization
+- • Custom Features & API Integrations
+- • UI/UX Focused Web Development
 
 ---
 
@@ -143,43 +143,44 @@ Hayat Medical College | 2025
 
 ## ✅ What You Can Expect
 
-✔ Fast & responsive websites
-✔ Clean and maintainable code
-✔ Scalable website architecture
-✔ Professional communication
-✔ Long-term support & maintenance
-✔ Business-focused web solutions
+- ✔ Fast & responsive websites
+- ✔ Clean and maintainable code
+- ✔ Scalable website architecture
+- ✔ Professional communication
+- ✔ Long-term support & maintenance
+- ✔ Business-focused web solutions
 
 ---
 
 ## 🌟 Why Clients Choose Me
 
-✔ 50+ successful international projects
-✔ Strong WordPress & PHP expertise
-✔ Advanced ACF Pro experience
-✔ Experience with custom and complex websites
-✔ Reliable communication and on-time delivery
+- ✔ 50+ successful international projects
+- ✔ Strong WordPress & PHP expertise
+- ✔ Advanced ACF Pro experience
+- ✔ Experience with custom and complex websites
+- ✔ Reliable communication and on-time delivery
 
 ---
 
 ## 🚀 My Achievements
 
-• Delivered 50+ successful websites for international clients
-• Improved website speed and performance by up to 60%
-• Built custom WooCommerce stores with secure payment integrations
-• Developed dynamic WordPress websites using Elementor Pro & ACF Pro
-• Helped businesses improve online visibility through technical SEO optimization
+- • Delivered 50+ successful websites for international clients
+- • Improved website speed and performance by up to 60%
+- • Built custom WooCommerce stores with secure payment integrations
+- • Developed dynamic WordPress websites using Elementor Pro & ACF Pro
+- • Helped businesses improve online visibility through technical SEO optimization
 
 ---
 
 ## 🎯 My Goal
 
 My goal is always to develop websites that are:
-✔ Fast & Optimized
-✔ SEO-Friendly
-✔ Responsive on All Devices
-✔ Secure & Scalable
-✔ User-Focused & Conversion Driven
+
+- ✔ Fast & Optimized
+- ✔ SEO-Friendly
+- ✔ Responsive on All Devices
+- ✔ Secure & Scalable
+- ✔ User-Focused & Conversion Driven
 
 I focus on building websites that are modern, scalable, easy to manage, and designed to deliver excellent user experiences.
 
