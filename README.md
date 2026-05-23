@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tanzeel Yousef
 
-**WordPress Developer | Full Stack PHP Developer | ACF Pro & Elementor Expert**
+**WordPress Developer | Full Stack PHP | ACF Pro & Elementor Expert**
 
 🚀 **Available for Hire** | 💲 $5.00/hr
 
@@ -17,10 +17,12 @@ I am a **Full Stack PHP Developer and WordPress Expert** with 3+ years of experi
 
 I specialize in custom WordPress development, **ACF Pro**, **Elementor Pro**, **WooCommerce**, **PHP**, **MySQL**, **HTML5**, **CSS3**, and **JavaScript**, creating scalable and user-friendly web solutions tailored to business needs.
 
-I have successfully completed **50+ projects** across industries including:
+I have successfully completed **50+ projects** across industries, including:
 - eCommerce | Healthcare | Automotive | Real Estate | Immigration | Digital Marketing | Business Services
 
-Currently working at **East & West Web Development and SEO Agency**, I build complete web applications from scratch using PHP in the backend and modern front-end technologies.
+Currently working at **East & West Web Development and SEO Agency**, I have successfully delivered 50+ projects including business websites, e-commerce stores, landing pages, and custom WordPress solutions.
+
+I build complete web applications and websites from scratch using PHP in the backend and modern front-end technologies for interactive and responsive user experiences.
 
 ---
 
@@ -33,14 +35,70 @@ Currently working at **East & West Web Development and SEO Agency**, I build com
 
 ## 🛠 My Expertise
 
-| Category | Expertise |
-|----------|-----------|
-| **WordPress** | Custom themes, plugins, ACF Pro, Elementor Pro, bug fixing |
-| **PHP Development** | Custom apps, admin panels, APIs, database-driven websites |
-| **WooCommerce** | Store setup, payment gateways, inventory, checkout customization |
-| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap, responsive design |
-| **Performance** | Core Web Vitals, caching, compression, speed optimization |
-| **SEO** | Technical SEO, Schema Markup, Google Analytics |
+### 🔹 Custom WordPress Development
+✔ Custom WordPress websites
+✔ Theme customization & development
+✔ Plugin setup & customization
+✔ Dynamic websites using ACF Pro
+✔ Custom post types & flexible content systems
+✔ WordPress bug fixing & maintenance
+
+### 🔹 Full Stack PHP Development
+✔ PHP & MySQL applications
+✔ Custom admin panels & dashboards
+✔ API integrations & backend systems
+✔ Secure database-driven websites
+✔ Custom web applications
+
+### 🔹 ACF Pro & Elementor Development
+✔ Advanced Custom Fields (ACF Pro) Specialist
+✔ Dynamic and flexible website structures
+✔ Elementor & Elementor Pro Expert
+✔ Pixel-perfect responsive layouts
+✔ Interactive and reusable sections
+✔ Mobile-first development
+
+### 🔹 WooCommerce Development
+✔ WooCommerce store setup
+✔ Payment gateway integration
+✔ Product & inventory management
+✔ Checkout customization
+✔ Custom WooCommerce functionality
+
+### 🔹 Front-End Development
+✔ HTML5, CSS3, JavaScript, Bootstrap
+✔ Fully responsive websites
+✔ Cross-browser compatibility
+✔ Modern UI/UX implementation
+
+### 🔹 Performance Optimization
+✔ Faster website loading
+✔ Core Web Vitals improvements
+✔ CSS & JavaScript optimization
+✔ Caching and compression setup
+✔ Performance-focused development
+
+### 🔹 SEO Optimization
+✔ Technical SEO & On-Page SEO Optimization
+✔ Schema Markup
+✔ Google Analytics & Search Console
+✔ Improved online visibility
+
+---
+
+## 🎯 My Core Expertise (At a Glance)
+
+• Full Stack Web Development (PHP & MySQL)
+• Front-End Development: HTML5, CSS3, JavaScript, Bootstrap
+• Custom WordPress Development
+• Elementor & Elementor Pro Expert
+• ACF Pro (Advanced Custom Fields) Specialist
+• WooCommerce Development & Customization
+• Responsive & Mobile-First Website Design
+• Website Speed Optimization & Performance Improvements
+• Technical SEO & On-Page SEO Optimization
+• Custom Features & API Integrations
+• UI/UX Focused Web Development
 
 ---
 
@@ -57,27 +115,77 @@ Currently working at **East & West Web Development and SEO Agency**, I build com
 
 ## 🏢 Experience
 
-**Full Stack PHP & WordPress Developer** @ East & West Web Development (2022–Present)
-- 50+ projects globally | ACF Pro & Elementor Pro expert | WooCommerce + Stripe/PayPal | 60% speed improvement
+### Full Stack PHP & WordPress Developer
+**East & West Web Development and SEO Agency** | Pakistan (Remote) | 2022 – Present
 
-**WordPress Developer** @ TECH BITS IT (2021–2022)
-- Custom WordPress & WooCommerce | Payment gateways, memberships | Vehicle registration & ULEZ systems
+- Delivered 50+ custom WordPress & PHP projects globally
+- Built dynamic websites using ACF Pro & Elementor Pro
+- Developed WooCommerce stores with Stripe/PayPal integration
+- Improved site speed & Core Web Vitals by up to 60%
+- Created custom admin panels & database-driven features
+
+### WordPress Developer & Full Stack Developer
+**TECH BITS IT** | Dera Ismail Khan, Pakistan | April 2021 – 2022
+
+- Delivered custom WordPress & WooCommerce solutions
+- Integrated payment gateways & membership systems
+- Built vehicle registration & ULEZ detection systems
+- Developed advanced booking platforms
 
 ---
 
 ## 🎓 Education
 
-**BS Computer Science** (In Progress) | Hayat Medical College | 2025
+**Bachelor of Science in Computer Science** (In Progress)
+Hayat Medical College | 2025
 
 ---
 
-## 🌟 Why Choose Me
+## ✅ What You Can Expect
 
-✔ 50+ successful projects | ✔ Strong PHP & WordPress | ✔ ACF Pro expert | ✔ Complex custom apps | ✔ On-time delivery | ✔ SEO-Friendly
+✔ Fast & responsive websites
+✔ Clean and maintainable code
+✔ Scalable website architecture
+✔ Professional communication
+✔ Long-term support & maintenance
+✔ Business-focused web solutions
 
 ---
 
-## 📁 My Projects Gallery
+## 🌟 Why Clients Choose Me
+
+✔ 50+ successful international projects
+✔ Strong WordPress & PHP expertise
+✔ Advanced ACF Pro experience
+✔ Experience with custom and complex websites
+✔ Reliable communication and on-time delivery
+
+---
+
+## 🚀 My Achievements
+
+• Delivered 50+ successful websites for international clients
+• Improved website speed and performance by up to 60%
+• Built custom WooCommerce stores with secure payment integrations
+• Developed dynamic WordPress websites using Elementor Pro & ACF Pro
+• Helped businesses improve online visibility through technical SEO optimization
+
+---
+
+## 🎯 My Goal
+
+My goal is always to develop websites that are:
+✔ Fast & Optimized
+✔ SEO-Friendly
+✔ Responsive on All Devices
+✔ Secure & Scalable
+✔ User-Focused & Conversion Driven
+
+I focus on building websites that are modern, scalable, easy to manage, and designed to deliver excellent user experiences.
+
+---
+
+## 📁 My Projects (21 Live Works)
 
 | # | Project | Type |
 |---|---------|------|
@@ -107,6 +215,8 @@ Currently working at **East & West Web Development and SEO Agency**, I build com
 
 ## 📬 Let's Connect
 
+I'm always open to collaborating with businesses, agencies, and innovative teams looking for high-quality web development solutions.
+
 📧 **Email:** mtanzeelxen@gmail.com  
 📱 **WhatsApp:** 03365224363  
 📍 **Location:** Dera Ismail Khan, Pakistan  
@@ -121,4 +231,4 @@ Currently working at **East & West Web Development and SEO Agency**, I build com
 
 ---
 
-*Let's work together to build a high-performing website for your business.*
+**Let's work together to build a high-performing website for your business.**
